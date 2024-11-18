@@ -19,6 +19,7 @@ public class Producto {
 
     public void setCodigo(int codigo) {
        //no hace nada porque no se puede modificar un final despues de habersele dado un valor
+       return;
     }
 
     public int getCodigo() {
